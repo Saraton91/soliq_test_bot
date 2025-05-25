@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Foyda soligʻining bazaviy (asosiy) stavkasi 2025-yilda necha foiz qilib belgilangan?",
+    "options": [
+      "12 foiz.",
+      "15 foiz.",
+      "20 foiz.",
+      "7,5 foiz."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Xodimlar tomonidan ish beruvchidan soliq davri mobaynida qiymati qancha bo‘lgan moddiy yordam  soliqqa tortilmaydi?",
+    "options": [
+      "mehnatga haq to‘lashning eng kam miqdorining 7,5 baravarigacha bo‘lgan qiymatdagi",
+      "mehnatga haq to‘lashning eng kam miqdorining 4,22 baravarigacha bo‘lgan qiymatdagi",
+      "mehnatga haq to‘lashning eng kam miqdorining 2,11 baravarigacha bo‘lgan qiymatdagi",
+      "mehnatga haq to‘lashning eng kam miqdorining 1,41 baravarigacha bo‘lgan qiymatdagi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Qanday fuqarolarga yer soligʻidan imtiyoz beriladi?",
+    "options": [
+      "Oilada nogironi bor fuqarolarga",
+      "I va II guruh nogironlari, yolgʻiz pensionerlar, boquvchisini yoʻqotgan koʻp bolali oilalar",
+      "Pensionerlarga, Davlat organlari xodimlariga",
+      "Shaxsiy pensiya tayinlangan shaxslarga"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Yer qa’ridan foydalanuvchilar qanday soliqlarni toʻlaydilar?",
+    "options": [
+      "yer qa’ridan foydalanganlik uchun soliq; qoʻshimcha foyda soligʻi.",
+      "yer qa’ridan foydalanganlik uchun soliq; maxsus renta solig'i.",
+      "yer ostidan foydalanganlik uchun soliq; qat’iy belgilangan soliq.",
+      "yer qa’ridan foydalanganlik uchun soliq; foyda soligʻi."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Toshkent shahrida joylashgan yuridik shaxslar uchun yer soligʻini hisoblashda nechta hudud mavjud?",
+    "options": [
+      "1,2,3,4,5-hududlar.",
+      "1,2,3-hududlar va baholanmagan yerlar uchun berilgan zona.",
+      "0,1,2,3,4-hududlar.",
+      "1,4,5-hududlar."
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Oʼzbekistonda 2020-yilda soliq turlari 13 tadan nechtaga kamaytirildi?",
+    "options": [
+      "8",
+      "10",
+      "7",
+      "9"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "2025-yilda polietilen granulalari uchun aksiz soligʻi stavkasi qancha qilib belgilangan?",
+    "options": [
+      "30",
+      "25",
+      "20",
+      "10"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "O’zbekiston Respublikasi yangi tahrirdagi Konstitutsiyasida soliq tizimiga tegishli bo'lgan moddalarni ko’rsating.",
+    "options": [
+      "4, 14, 111",
+      "10, 51, 78",
+      "63, 149",
+      "51, 123"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "2024-yil 1-yanvardan jami daromadi besh yuz million soʼmdan yuqori bo'lgan soliq toʼlovchilar uchun aylanmadan olinadigan soliqning qat'iy stavkasi qancha qilib belgilandi?",
+    "options": [
+      "1 foiz",
+      "25,0 mln so'm",
+      "34,0 mln so'm",
+      "4 foiz"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "O’zbekiston Respublikasida aktsiz solig’i qachon joriy etilgan?",
+    "options": [
+      "1991-yil 1-yanvardan",
+      "1996-yil 1-yanvardan",
+      "1995-yil 1-yanvardan",
+      "1994-yil 1-martdan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Budjet tashkilotlari uchun ijtimoiy soliq stavkasi necha foiz qilib belgilangan?",
+    "options": [
+      "12 foiz",
+      "7 foiz",
+      "25 foiz",
+      "4,7 foiz"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Soliq solishning adolatliligi printsipi keltirilgan qatorni toping.",
+    "options": [
+      "soliq solish ijtimoiy, irqiy, milliy, diniy va boshqa shu kabi mezonlardan kelib chiqqan holda belgilanadi",
+      "soliq solish majburiydir",
+      "soliq solish umumiydir",
+      "soliq solish mulkning shakliga, jismoniy shaxslarning fuqaroligiga qarab belgilanadi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Jismoniy shaxslardan olinadigan daromad soligʼi stavkalari qaysi meʼyoriy hujjat bilan belgilanadi?",
+    "options": [
+      "Oʼzbekiston Respublikasi Vazirlar Mahkamasining qarori bilan",
+      "Oʼzbekiston Respublikasining Soliq kodeksi bilan",
+      "Oʼzbekiston Respublikasining Davlat budjeti toʼgʼrisidagi Qonuni bilan",
+      "Oʼzbekiston Respublikasi Prezidentining qarori bilan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "2025-yilda yuridik shaxslarning mol-mulkiga solinadigan soliq stavkasi necha foiz qilib belgilangan?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1,5"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Daromad soligʼini deklaratsiya asosida toʼlaydigan faoliyatini amalga oshirayotgan yakka tartibdagi tadbirkorlar dastlabki tarzdagi deklaratsiyani qachongacha topshirishi lozim?",
+    "options": [
+      "joriy yilning 1-martidan",
+      "joriy yilning 15-yanvaridan kechiktirmay",
+      "joriy yilning 1-fevralidan kechiktirmay",
+      "joriy yilning 15-fevralidan kechiktirmay"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Yangi tahrirdagi (483 moddali) Soliq kodeksi qachondan amalga kiritilgan?",
+    "options": [
+      "2020-yil 1-yanvardan",
+      "2019-yil 1-apreldan",
+      "2019-yil 1-yanvardan",
+      "2021-yil 1-yanvardan"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Norezident jismoniy shaxsning dividendlar va foizlar tarizidagi daromadlariga necha foizlik stavkada soliq solinadi?",
+    "options": [
+      "10 foiz",
+      "6 foiz",
+      "20 foiz",
+      "5 foiz"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Soliq toʻlovchi mol-mulk soligʻidan imtiyoz olish huquqiga ega boʻlgani holda Toshkent shahrida hamda Toshkent viloyatida turar joy obyekti boʻlganda soliq imtiyozi qaysi biriga tadbiq etiladi?",
+    "options": [
+      "soliq toʻlovchining tanlashi boʻyicha faqat bitta ob'yektiga",
+      "Toshkent shahrida hamda Fargʻona viloyatida joylashgan turar joy ob'yektlariga",
+      "Fargʻona viloyati joylashgan ob'yektiga",
+      "Toshkent shahrida joylashgan ob'yektiga"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Quyidagilarning qaysi biri aktsiz solig’ining soliqqa tortish ob'ekti bo'lib hisoblanmaydi?",
+    "options": [
+      "Aktsiz to’lanadigan tovarlarning eksportiga",
+      "Berilgan xom ashyodan tayyorlangan mahsulotga",
+      "Zargarlik buyumlariga",
+      "Aktsiz to’lanadigan tovarlarning importiga"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Mol-mulkni ijaraga berishdan daromad oladigan jismoniy shaxslar soliqni taqdim etilgan dastlabki deklaratsiya asosida qachon toʼlaydi?",
+    "options": [
+      "daromad olingan oydan keyingi oyning 25-kunigacha har oyda",
+      "daromad olingan oydan keyingi oyning 10-kunigacha har oyda",
+      "daromad olingan oydan keyingi oyning 15-kunigacha har oyda",
+      "daromad olingan oydan keyingi oyning 5-kunigacha har oyda"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Yangi imoratlar, binolar va inshootlar boʻyicha jismoniy shaxslarning mol-mulkiga solinadigan soliq qachondan boshlab toʻlanadi?",
+    "options": [
+      "barpo etilgan yildan keyingi uch yildan soʻng toʻlanadi",
+      "barpo etilgan yildan keyingi yil boshidan e’tiboran toʻlanadi",
+      "mulk huquqi yuzaga kelgan oydan e’tiboran toʻlanadi",
+      "barpo etilgan yildan keyingi ikki yildan soʻng toʻlanadi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "2025-yilda jismoniy shaxslarning deklaratsiya topshirish muddati qaysi sanaga belgilangan?",
+    "options": [
+      "1-aprelgacha",
+      "1-avgustgacha",
+      "1-iyungacha",
+      "Deklaratsiya topshirish bekor boʼlgan"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Ijtimoiy soliqni toʻlovchilari bo'lib  kimlar hisoblanadi?",
+    "options": [
+      "Budjet muassasalari xodimlari",
+      "Fermer xoʻjaliklari ishchilari",
+      "Xususiy korxona rahbari",
+      "Yuridik shaxslar va jismoniy shaxslarning ayrim toifalari"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Soliq agenti deganda kimlarni tushunasiz?",
+    "options": [
+      "yuridik va jismoniy shaxslardan soliqni ushlab qolish va davlat budjetiga o’tkazib beruvchi yuridik shaxslar (ayrim hollarda YaTTlar)",
+      "yuridik va jismoniy shaxslardan soliqni ushlab qolish va davlat budjetiga o’tkazib beruvchi jismoniy shaxslar",
+      "yuridik va jismoniy shaxslardan soliqni ushlab qolish va davlat budjetiga o’tkazib beruvchi yakka tartibdagi tadbirkorlar",
+      "jismoniy shaxslardan soliqni ushlab qolish va davlat budjetiga o’tkazib beruvchi yuridik shaxslar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Qo’shilgan qiymat solig’ini hisoblashda nollik stavka qachon qo’llaniladi?",
+    "options": [
+      "Kundalik ehtiyoj mahsulotlariga",
+      "Stenografiya xizmatlarga",
+      "Tovarlarni chet el valyutasida eksportga realizatsiya qilishga",
+      "Ma’lumotlarni ishlash va axborot ta’limotiga doir xizmatlarga"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Yakka tartibdagi tadbirkor bilan mehnat munosabatlarida boʻlgan jismoniy shaxslar tomonidan oyiga qancha miqdorda ijtimoiy soliq toʻlanadi?",
+    "options": [
+      "bazaviy hisoblash miqdorida",
+      "bazaviy hisoblash miqdorining 50 foizi miqdorida",
+      "bazaviy hisoblash miqdorining 2,5 baravaridan kam boʻlmagan",
+      "bazaviy hisoblash miqdorining 25 foizi miqdorida"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Suv resurslaridan foydalanganlik uchun soliqning soliq bazasi ko'rsatilgan to'g'ri javobni belgilang.",
+    "options": [
+      "Hisobot davriga belgilangan belgilangan suv miqdori.",
+      "Soliq davri uchun belgilangan suv miqdori.",
+      "Yillik suv miqdori.",
+      "Foydalanilgan suvning hajmi."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Jismoniy shaxslar uchun Yer qa’ridan foydalanganlik uchun soliqni hisobot davri qanday?",
+    "options": [
+      "90 kun.",
+      "bir oy.",
+      "uch oy.",
+      "kalendar yil."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Soliq elementlari to’liq aks etgan qatorni ko'rsating.",
+    "options": [
+      "Soliq  stavkasi, soliq davri, soliq hisobotini taqdim etish va to'lash tartibi.",
+      "Soliq solinadigan baza, stavka, hisoblab chiqarish tartibi, soliq davri, soliq hisobotini taqdim etish tartibi, to’lash tartibi.",
+      "Soliq solish ob’ekti, soliq bazasi, soliq stavkasi, soliq davri, soliqni hisoblab chiqarish tartibi,  soliq hisobotini taqdim etish tartibi, soliqni to’lash tartibi.",
+      "Soliq stavka, hisoblab chiqarish tartibi, soliq davri, soliq hisobotini taqdim etish tartibi."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Jismoniy shaxslarning mol-mulk soligʻini soliq davri uchun toʻlash muddati qachon?",
+    "options": [
+      "soliqni toʻlash teng ulushlarda 15-aprelga va 15-oktabrga qadar amalga oshiriladi",
+      "hisobot yilining 15 iyun va 15 dekabriga qadar",
+      "hisobot yilining 15 oktyabriga qadar",
+      "hisobot yilining 1 oktyabriga qadar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Qishloq xoʻjaligi tovar ishlab chiqaruvchilariga 25 gektar va undan ortiq sugʻoriladigan ekin maydoni mavjud boʻlsa qaysi soliq turi tatbiq etilmaydi?",
+    "options": [
+      "Aylanmadan olinadigan soliq",
+      "Ijtimoiy soliq",
+      "Daromad soligʻi",
+      "Qoʻshilgan qiymat soligʻi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Oʼzbekiston Respublikasi Prezidentining 29.06.2018-yildagi PF-5468-sonli Farmonning asosiy mazmun va mohiyati qaysi javobda toʼgʼri keltirilgan?",
+    "options": [
+      "Soliq siyosatini takomillashtirish kontseptsiyasini tasdiqlash va shu asosda strategiya taktikani belgilab olish",
+      "Soliqlarning yangi turlarini joriy etish",
+      "Soliq nazoratining xorijda keng qoʼllanilayotgan ilgʼor va sinalgan shakl hamda usullarini joriy etish",
+      "Soliq kodeksining yangi tahrirdagi loyihasini ishlab chiqish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Yakka tartibdagi tadbirkorlar tomonidan jismoniy shaxslardan olinadigan daromad soligʼini toʼlashning necha xil tartibi mavjud?",
+    "options": [
+      "2 xil",
+      "1 xil",
+      "3 xil",
+      "4 xil"
+    ],
+    "correct_option_index": 0
+  }
+]
